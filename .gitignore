@@ -1,0 +1,29 @@
+# Build directories and artifacts
+build/
+*.o
+*.a
+*.elf
+*.bin
+*.map
+*.d
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Misc
+.DS_Store
+*.log
